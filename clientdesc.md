@@ -2,6 +2,7 @@
 
 ## Description
 This modpack provides various optimization improvements, as well as graphic enhancements like shaders, distant horizons, and a few useful resource packs. Keybinds and mods are preconfigured, with no further tinkering needed.
+Its planned to maintain this modpack as long as possible, so you will always have a nice fresh modpack as soon as possible after Minecraft updates.
 
 <details>
   <summary>Mods included</summary>
