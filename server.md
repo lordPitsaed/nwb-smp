@@ -16,6 +16,7 @@
  - Craft mini versions of blocks using stonecutter
  - Nether coordinates - get coordinates in other dimension. [more](https://www.youtube.com/watch?v=_rRR-CBq1yM)
  - Player and mobs heads drops now
+ - Never Too Expensive - fuckem
 
 ## Commands: 
 
