@@ -7,7 +7,7 @@
  - Sit. Sit on slabs, stairs, player heads(click RMB)
  - Image2Map. Put your images on maps
  - Leasheble players. Leash your bro, give him a little buttheart))
- - Togglable Item Frames - Click RMB on item frame to make it dissapear
+ - Togglable Item Frames - Click Shift+RMB on item frame to make it dissapear
  - Voicechat
 
  - Antiendermangrief - fuckem
