@@ -21,18 +21,21 @@ Used Terralith as world gen mod and Chunky to measure chunk gen performance.
 - CPU: Ryzen Z1 Extreme
 - GPU: RTX 2060 6Gb
 - Allocated RAM: 6144Mb
+
+  <details>
+    <summary>Game settings</summary> 
+    
+  - Shader: Photon
+  - Render Distance: 12 chunks
+  - Simulation Distance 10 chunks
+  - Grapchics: Fancy
+  - Clouds: Off
+  - Particles: Decreased
+  - Distant Horizons Render Distance: 128
+  </details>
 </details>
 
-<details>
-  <summary>Game settings</summary> 
-- Shader: Photon
-- Render Distance: 12 chunks
-- Simulation Distance 10 chunks
-- Grapchics: Fancy
-- Clouds: Off
-- Particles: Decreased
-- Distant Horizons Render Distance: 128
-</details>
+##
 
 <details>
   <summary>Mods included</summary>
