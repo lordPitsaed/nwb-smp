@@ -77,6 +77,8 @@ Its planned to maintain this modpack as long as possible, so you will always hav
 - [WI Zoom](https://modrinth.com/mod/o7DitHWP) by Alexander01998 - Zoom. Press "C", MWheel to adjust.
 - [WorldEdit](https://enginehub.org/worldedit/) by EngineHub
 - [YetAnotherConfigLib](https://modrinth.com/mod/1eAoo2KR) by isXander - Library.
+- [Sounds](https://modrinth.com/mod/sound) by IMB11 - Block and item interactions sounds mod. Preconfigured
+- [AdaptiveHUD](https://modrinth.com/mod/adaptivehud) by Fy17 - Smaller then miniHUD mod to work when miniHud is not needed
 </details>
 
 <details>
