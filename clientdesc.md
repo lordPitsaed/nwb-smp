@@ -13,7 +13,7 @@ Used Terralith as world gen mod and Chunky to measure chunk gen performance.
 - <b>Average Chunky gen rate:</b> 10-15cps (Can be higer with [c2me](https://modrinth.com/mod/c2me-fabric), but I don't want to listen how my friends are struggling and whining about Java 22 requirement)
 - <b>Shader/No-shader performance:</b> 65fps/143fps(VSync) (Can be improved with [nvidium](https://modrinth.com/mod/nvidium), will add in 0.0.3)
  <img alt="Shader performance is around 65fps" src="https://github.com/user-attachments/assets/6e079a30-1afb-4fcd-b5a1-27a4d9998e8c" width="400px" style="display: inline-block" />
- <img alt="No shader performance is 143fps" src="https://github.com/user-attachments/assets/08a783e4-021b-415f-8b96-06faec87b2de](https://github.com/user-attachments/assets/450229d1-ce86-434c-a91b-a967c995d7a4"  width="400px"  style="display: inline-block" />
+ <img alt="No shader performance is 143fps" src="https://github.com/user-attachments/assets/08a783e4-021b-415f-8b96-06faec87b2de"  width="400px"  style="display: inline-block" />
 
 <details>
   <summary>Test Rig</summary>
