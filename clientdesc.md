@@ -4,6 +4,36 @@
 This modpack provides various optimization improvements, as well as graphic enhancements like shaders, distant horizons, and a few useful resource packs. Keybinds and mods are preconfigured, with no further tinkering needed.
 Its planned to maintain this modpack as long as possible, so you will always have a nice fresh modpack as soon as possible after Minecraft updates.
 
+## Performance
+Used Terralith as world gen mod and Chunky to measure chunk gen performance.
+
+- <b>Time to launch:</b> 31.896s
+- <b>Time from main menu to in-game:</b> 22.745342 seconds
+- <b>Total time to load game and open world:</b> 54.641342 seconds
+- <b>Average Chunky gen rate:</b> 10-15cps (Can be higer with [c2me](https://modrinth.com/mod/c2me-fabric), but I don't want to listen how my friends are struggling and whining about Java 22 requirement)
+- <b>Shader/No-shader performance:</b> 65fps/143fps(VSync) (Can be improved with [nvidium](https://modrinth.com/mod/nvidium), will add in 0.0.3)
+![2024-10-14_17 00 54](https://github.com/user-attachments/assets/6e079a30-1afb-4fcd-b5a1-27a4d9998e8c)
+![2024-10-14_17 00 32](https://github.com/user-attachments/assets/08a783e4-021b-415f-8b96-06faec87b2de)
+
+<details>
+  <summary>Test Rig</summary>
+
+- CPU: Ryzen Z1 Extreme
+- GPU: RTX 2060 6Gb
+- Allocated RAM: 6144Mb
+</details>
+
+<details>
+  <summary>Game settings</summary> 
+- Shader: Photon
+- Render Distance: 12 chunks
+- Simulation Distance 10 chunks
+- Grapchics: Fancy
+- Clouds: Off
+- Particles: Decreased
+- Distant Horizons Render Distance: 128
+</details>
+
 <details>
   <summary>Mods included</summary>
   
