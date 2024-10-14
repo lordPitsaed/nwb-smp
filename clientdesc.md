@@ -83,6 +83,7 @@ Its planned to maintain this modpack as long as possible, so you will always hav
 
 <details>
   <summary>Resource Packs</summary>
+  
   ### Enabled
   
   - [CTM OF-Fabric](https://modrinth.com/resourcepack/ctm-of-fabric) by Aeldit - Connected textures.
