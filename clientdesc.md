@@ -78,7 +78,7 @@ Its planned to maintain this modpack as long as possible, so you will always hav
 - [WorldEdit](https://enginehub.org/worldedit/) by EngineHub
 - [YetAnotherConfigLib](https://modrinth.com/mod/1eAoo2KR) by isXander - Library.
 - [Sounds](https://modrinth.com/mod/sound) by IMB11 - Block and item interactions sounds mod. Preconfigured
-- [AdaptiveHUD](https://modrinth.com/mod/adaptivehud) by Fy17 - Smaller then miniHUD mod to work when miniHud is not needed
+- [AdaptiveHUD](https://modrinth.com/mod/adaptivehud) by Fy17 - Smaller then miniHUD mod to work independent from miniHUD renderers 
 </details>
 
 <details>
@@ -99,6 +99,7 @@ Its planned to maintain this modpack as long as possible, so you will always hav
   - [Better Lights](https://modrinth.com/resourcepack/better-lights) by PystoyPlayer
   - [Detailed Animations](https://modrinth.com/resourcepack/detailed-animations) by Cymock - Player model animation.
   - [Fresh Animations](https://modrinth.com/resourcepack/fresh-animations) by FreshLX - Other mobs' animations.
+  - [C4Music](https://modrinth.com/resourcepack/c4music) by MopsTMC and C418 - Removes new soundtrack in favour of C418 ol' days ost
   - Glass Pane Culling Fix - Fixes culling issue with glass panes.
   
   ### Optional
