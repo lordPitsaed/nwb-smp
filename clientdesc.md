@@ -14,6 +14,12 @@ Used Terralith as world gen mod and Chunky to measure chunk gen performance.
 - <b>Shader/No-shader performance:</b> 65fps/143fps(VSync) (Can be improved with [nvidium](https://modrinth.com/mod/nvidium), will add in 0.0.3)
  <img alt="Shader performance is around 65fps" src="https://github.com/user-attachments/assets/6e079a30-1afb-4fcd-b5a1-27a4d9998e8c" width="400px" style="display: inline-block" />
  <img alt="No shader performance is 143fps" src="https://github.com/user-attachments/assets/08a783e4-021b-415f-8b96-06faec87b2de"  width="400px"  style="display: inline-block" />
+<details>
+  <summary>On-server performance</summary>
+   
+  <img alt="Shader performance is around 70fps" src="https://github.com/user-attachments/assets/e1c6083c-a972-4ec6-9ef2-847152bbf261"  width="400px"  style="display: inline-block" />
+  <img alt="No shader performance is 150fps" src="https://github.com/user-attachments/assets/3f9864f8-faa7-443d-a9a4-4b7dbcda33e8" width="400px" style="display: inline-block" />
+ </details>
 
 <details>
   <summary>Test Rig</summary>
