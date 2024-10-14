@@ -156,3 +156,12 @@ Used Terralith as world gen mod and Chunky to measure chunk gen performance.
    - [Pastel Shaders](https://modrinth.com/shader/pastel-shaders) by ElocinDev
    - [Photon](https://modrinth.com/shader/photon-shader) by sixthsurge
 </details>
+
+<details>
+ <summary>Versioning</summary>
+
+ Assuming modpack version is x.y.z, where:
+ - x: game version change, e.g. Minecracft 1.21 updates to Minecraft 1.21.1
+ - y: modlist\resourcepacks\shaderpacks changes, e.g. new mod added, RP removed etc.
+ - z: mods\resourcepacks\shaderpacks updates, e.g. DistantHorizons update from 2.2.0a to 2.2.1a
+</details>
