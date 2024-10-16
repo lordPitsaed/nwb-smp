@@ -9,9 +9,9 @@
  - Leasheble players. Leash your bro, give him a little buttheart))
  - Togglable Item Frames - Click Shift+RMB on item frame to make it dissapear
  - Voicechat
+ - Armor Stand Editor - RMB with flint to use. [more](https://modrinth.com/mod/armorstandeditor)
 
  - Antiendermangrief - fuckem
- - Armor statues config - sign a book with name "Statues" and configure armor stand with it. [more](https://www.youtube.com/watch?v=nV9-_RacnoI)
  - Custom nether portals - any shape, allows to light with crying obsidian in frame
  - Craft mini versions of blocks using stonecutter
  - Nether coordinates - get coordinates in other dimension. [more](https://www.youtube.com/watch?v=_rRR-CBq1yM)
