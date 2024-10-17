@@ -116,7 +116,8 @@ Used Terralith as world gen mod and Chunky to measure chunk gen performance.
 - [WorldEdit](https://enginehub.org/worldedit/) by EngineHub
 - [YetAnotherConfigLib](https://modrinth.com/mod/1eAoo2KR) by isXander - Library.
 - [Sounds](https://modrinth.com/mod/sound) by IMB11 - Block and item interactions sounds mod. Preconfigured
-- [AdaptiveHUD](https://modrinth.com/mod/adaptivehud) by Fy17 - Smaller then miniHUD mod to work independent from miniHUD renderers 
+- [AdaptiveHUD](https://modrinth.com/mod/adaptivehud) by Fy17 - Smaller then miniHUD mod to work independent from miniHUD renderers
+- [Restore Chat Links](https://modrinth.com/mod/restore-chat-links) by zomabies - Makes links in chat clickable
 </details>
 
 <details>
