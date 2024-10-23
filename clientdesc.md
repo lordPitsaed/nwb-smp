@@ -119,6 +119,7 @@ Used Terralith as world gen mod and Chunky to measure chunk gen performance.
 - [AdaptiveHUD](https://modrinth.com/mod/adaptivehud) by Fy17 - Smaller then miniHUD mod to work independent from miniHUD renderers
 - [Restore Chat Links](https://modrinth.com/mod/restore-chat-links) by zomabies - Makes links in chat clickable
 - [Show Me Your Skin](https://modrinth.com/mod/show-me-your-skin) by enjarai - Customize armor opacity
+- [CICADA](https://modrinth.com/mod/cicada) by enjarai - lib
 </details>
 
 <details>
