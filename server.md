@@ -1,4 +1,4 @@
-# Server
+Server
 
 ## Features: 
  - Expanded Axe Enchanting! Apply Looting, Fire Aspect and Knockback to axe!
@@ -10,6 +10,7 @@
  - Togglable Item Frames - Click Shift+RMB on item frame to make it dissapear
  - Voicechat
  - Armor Stand Editor - RMB with flint to use. [more](https://modrinth.com/mod/armorstandeditor)
+ - Radio - put mp3 raio streams on block
 
  - Antiendermangrief - fuckem
  - Custom nether portals - any shape, allows to light with crying obsidian in frame
@@ -17,6 +18,9 @@
  - Nether coordinates - get coordinates in other dimension. [more](https://www.youtube.com/watch?v=_rRR-CBq1yM)
  - Player and mobs heads drops now
  - Never Too Expensive - fuckem
+ - Eat Me, Drink Me - shrink ur player size
+![92756c01f2e818105c45b07d8d2a2ba3885179a0](https://github.com/user-attachments/assets/254416e3-5281-4a25-bc80-2f5799185112)
+
 
 ## Commands: 
 
@@ -40,6 +44,9 @@
  - /audioplayer musicdisc <ID> "<CUSTOM-TEXT>" <RANGE> - puts audio on disk
  - /audioplayer goathorn <ID> "<CUSTOM-TEXT> <RANGE>" - puts audio on goathorn
  - /audioplayer id - get audio from item
+
+   ### Radio
+ - /radio create <url>
    
    ### Image 2 Map
  - /image2map create <WIDTH> <HEIGHT> <[dither/none]> <URL> - Creates map of specified size (in pixels, single map is 128x128), with/without dither, using provided image
