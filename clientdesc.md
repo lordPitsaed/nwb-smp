@@ -45,29 +45,27 @@ Used Terralith as world gen mod and Chunky to measure chunk gen performance.
 
 <details>
   <summary>Mods included</summary>
-  
+
+- [AntiItemBreak](https://modrinth.com/mod/DYfxb7Ev) by Fy17 - Preents item use when on low durability
 - [AppleSkin](https://modrinth.com/mod/appleskin) by squeek502 - Adds the ability to view food stats and their effects on health and saturation.
 - [Architectury](https://modrinth.com/mod/lhGA9TYQ) by shedaniel - Library
 - [Auth Me](https://modrinth.com/mod/yjgIrBjZ) by Axieum - Relogin to your account directly from the game.
-- [Auto Clicker](https://modrinth.com/mod/r8axuw4u) by ErrorMikey, Advanced XRay team - Does what it says. Configure with the "O" key, toggle with "I".
+- [Auto Clicker](https://modrinth.com/mod/r8axuw4u) by p1kachu - Does what it says. Configure with the "O" key, toggle with "I".
 - [Axiom](https://modrinth.com/mod/axiom) by Moulberry - Minecraft's answer to Blender
 - [Bad Optimizations](https://modrinth.com/mod/g96Z4WVZ) by Thosea - Miscellaneous small optimizations.
-- [Better Mount HUD](https://modrinth.com/mod/kqJFAPU9) by Lortseam - Hunger bar and mount health displayed at the same time. XP bar replaced only when jumping.
 - [Better Ping Display](https://modrinth.com/mod/MS1ZMyR7) by Quintinity - Displays ping in milliseconds in the tab menu.
-- [Better F3](https://modrinth.com/mod/8shC1gFX) by cominixo, TreyRuffy - Configurable F3 menu.
 - [Blur+](https://modrinth.com/mod/NK39zBp2) by Motschen, tterrag1098, Pyrofab, backryun, byquanton - Adds blur to interface overlays.
 - [Chat Heads](https://modrinth.com/mod/Wb5oqrBJ) by dzwdz, Fourmisain - Prepends mini heads to player nicknames in chat and the tab menu.
 - [ChatAnimation](https://modrinth.com/mod/DnNYdJsx) by Ezzenix - Adds animation to chat.
 <-- - [CIT Resewn](https://modrinth.com/mod/otVJckYQ) by SHsuperCM - OptiFine Custom Item Textures port to Sodium.  REMOVED DUE TO OUTDATED VERSION -->
 - [Click Through Plus](https://modrinth.com/mod/clickthrough+) by Cassian - Adds the ability to click through item frames and signs.
+- [Client Sort](https://modrinth.com/mod/K0AkAin6) by NotRyken - Inventory sorter
 - [Cloth Config](https://modrinth.com/mod/9s6osm5g) by shedaniel - Library.
 - [Collective](https://modrinth.com/mod/e0M1UDsY) by Rick South - Library.
-- [Continuity](https://modrinth.com/mod/1IjD5062) by PepperCode1 - OptiFine connected textures port to Sodium.
 - [Dark Loading Screen](https://modrinth.com/mod/h3XWIuzM) by Neecko5b84 - Self-descriptive.
-<-- - [Distant Horizons](https://modrinth.com/mod/uCdwusMi) - Adds LODs to Minecraft. -->
+- [Distant Horizons](https://modrinth.com/mod/uCdwusMi) - Adds LODs to Minecraft.
 - [Dynamic FPS](https://modrinth.com/mod/LQ3K71Q1) by juliand665, LostLuma - Preserves resources of your PC when the game is not in focus by lowering graphics and setting an FPS cap.
 - [e4mc](https://modrinth.com/mod/qANg5Jrr) by skyevg - Allows you to open LAN server to anyone
-- [Enhanced Block Entities](https://modrinth.com/mod/OVuFYfre) by FoundationGames - Optimizes block entities (e.g., chests, shulkers, etc.).
 - [Entity Model Features](https://modrinth.com/mod/4I1XuqiY) by Traben - OptiFine EMF port to Sodium.
 - [Entity Texture Features](https://modrinth.com/mod/BVzZfTc1) by Traben - OptiFine ETF port to Sodium.
 - [Entity Culling](https://modrinth.com/mod/NNAgCjsB) by tr7zw - Path-traced entity culling to optimize the game.
@@ -75,26 +73,24 @@ Used Terralith as world gen mod and Chunky to measure chunk gen performance.
 - [Fabric Language Kotlin](https://modrinth.com/mod/Ha28R6CL) by FabricMC - Library.
 - [Fast IP Ping](https://modrinth.com/mod/9mtu0sUO) by Fallen_Breath - Self-explanatory.
 - [Ferrite Core](https://modrinth.com/mod/uXXizFIs) by malte0811 - Memory usage optimization.
+- [Full Brightness Toggle](https://modrinth.com/mod/aEK1KhsC) by Rick South - Toggle fullbright.
 - [Held Item Info](https://modrinth.com/mod/tEcWzCZz) by Neecko5b84 - Shows info about the held item, similar to Bedrock.
 - [Immediately Fast](https://modrinth.com/mod/5ZwdcRci) by RK_01 - Game launch time optimization.
 - [Iris](https://modrinth.com/mod/YL57xq9U) by coderbot, IMS212, Justsnoopy30, FoundationGames - Shaders mod.
 - [Jade](https://modrinth.com/mod/nvQzSEkH) by Snownee - Displays info about what you are looking at.
-- [Just Enough Breeding](https://modrinth.com/mod/9Pk89J3g) by Christofmeg - Allows you to see breeding info. Press "U" on the spawner egg.
-- [Keep Inventory Sorted, Simple](https://modrinth.com/mod/FbHSPTyF) by Manu - Inventory sorter.
 - [Litematica](https://modrinth.com/mod/bEpr0Arc) by masa - Schematica port to Fabric.
 - [Lithium](https://modrinth.com/mod/gvQqBUqZ) by JellySquid, 2No2Name - Performance optimization mod.
-- M.R.U - Library.
+- [M.R.U](https://modrinth.com/mod/SNVQ2c0g) by IMB11 (mineblock11) - Library.
 - [MaLiLib](https://modrinth.com/mod/GcWjdA9I) by masa - Library.
 - [MidnightLib](https://modrinth.com/mod/codAaoxh) by Motschen, TeamMidnightDust - Library.
 - [MiniHUD](https://modrinth.com/mod/UMxybHE8) by masa - Highly configurable HUD with lots of features.
 - [Mod Menu](https://modrinth.com/mod/mOgUt4GM) by Prospector, haykam821, TerraformersMC - Adds a mod menu to view and configure mods in-game.
 - [Model Gap Fix](https://modrinth.com/mod/QdG47OkI) by MehVahdJukaar - Fixes model gaps, like fishing rods.
-- [ModernFix](https://modrinth.com/mod/nmDcB62a) by embeddedt - Performance improvements.
 - [More Chat History](https://modrinth.com/mod/8qkXwOnk) by JackFred - Self-explanatory.
 - [More Culling](https://modrinth.com/mod/51shyZVL) by PR0CESS, 1Foxy2 - Literally adds more culling options.
 - [MouseTweaks](https://modrinth.com/mod/aC3cM3Vq) by Ivan Molodetskikh (YaLTeR) - Inventory mouse interactions enhancer.
 - [No Chat Reports](https://modrinth.com/mod/qQyHxfxd) by Aizistral - Strips cryptographic data from chat messages so Microsoft can't spy on you.
-- [Noisium](https://modrinth.com/mod/KuNKN7d2) by Steveplays28 - World generation optimization.
+- [Numeral Ping](https://modrinth.com/mod/XLd8Sh64) by TheKodeToad - Makes ping in tab show numbers
 - [OptiGUI](https://modrinth.com/mod/JuksLGBQ) by opekope2 - OptiFine Custom GUI feature port to Sodium.
 - [Peek](https://modrinth.com/mod/TnOXNf5e) by Max Henkel - Additional information in item tooltips.
 - [Placeholder API](https://modrinth.com/mod/eXts2L7r) by Patbox - Library.
@@ -107,10 +103,6 @@ Used Terralith as world gen mod and Chunky to measure chunk gen performance.
 - [Sodium Shadowy Path Blocks](https://modrinth.com/mod/EIa1eiMm) by Rynnavinx - Adds smooth lighting to path blocks.
 - [Status Effect Bars](https://modrinth.com/mod/x02cBj9Y) by Neecko5b84 - Adds small customizable bars to the status effects overlay and in the inventory to show the remaining duration of effects.
 <-- - [Thread Tweak](https://modrinth.com/mod/vSEH1ERy) by getchoo, UltimateBoomer, fantahund - Improves CPU scheduling. -->
-- [ViaBackwards](https://modrinth.com/mod/NpvuJQoq) by Matsv, kennytv, Gerrygames, creeper123123321, ForceUpdate1, EnZaXD - Allows you to connect to newer servers.
-- [ViaFabricPlus](https://modrinth.com/mod/rIC2XJV4) by FlorianMichael/EnZaXD, RK_01 - Fabric mod to connect to EVERY Minecraft server version (Release, Beta, Alpha, Classic, Snapshots, Bedrock) with QoL fixes to gameplay.
-- [ViaVersion](https://modrinth.com/mod/P1OZGk5p) by _MylesC, creeper123123321, Gerrygames, kennytv, Matsv, EnZaXD, RK_01 - Allows you to connect to older servers.
-- [WaveyCapes](https://modrinth.com/mod/kYuIpRLv) by tr7zw - Makes capes wave.
 - [WI Zoom](https://modrinth.com/mod/o7DitHWP) by Alexander01998 - Zoom. Press "C", MWheel to adjust.
 - [WorldEdit](https://enginehub.org/worldedit/) by EngineHub
 - [YetAnotherConfigLib](https://modrinth.com/mod/1eAoo2KR) by isXander - Library.
@@ -119,7 +111,6 @@ Used Terralith as world gen mod and Chunky to measure chunk gen performance.
 - [CICADA](https://modrinth.com/mod/cicada) by enjarai - lib
 - [Breakable](https://modrinth.com/mod/breakable) by sten-code - Prevents tool use at 1 durability
 - [Remove Loading Screen](https://modrinth.com/mod/rrls) by dima_dencep
-- [Bobby]([https://modrinth.com/mod/rrls](https://modrinth.com/mod/bobby)) by Johni0702 - While Distant Horizons is updating to latest version will use this.
 </details>
 
 <details>
@@ -127,29 +118,22 @@ Used Terralith as world gen mod and Chunky to measure chunk gen performance.
   
   ### Enabled
   
-  - [CTM OF-Fabric](https://modrinth.com/resourcepack/ctm-of-fabric) by Aeldit - Connected textures.
   - [Enchant icons colorless](https://modrinth.com/resourcepack/enchant-icons-colorless-countxd) by CountXD.
   - [Low On Fire](https://modrinth.com/resourcepack/low-on-fire) by Haikis - Makes fire effect less obstructive.
   - [Small Shield & Totem](https://modrinth.com/resourcepack/small-shield-totem) by blob_ - Makes shield and totem held items less obstructive.
   - [Less Pumpkin Blur](https://modrinth.com/resourcepack/less-pumpkin-blur) by Cyan735 - Makes pumpkin blur more opaque.
   - [Less Rain](https://modrinth.com/resourcepack/less-rain) by Cyan735
   - [Less Snow](https://modrinth.com/resourcepack/less-snow) by Cyan735
-  - [Fancy Crops](https://modrinth.com/resourcepack/fancy-crops) by bebebea_loste
   - [Default Dark Mode](https://modrinth.com/resourcepack/default-dark-mode) by nebulr - Makes all the UI dark.
-  - [Better Lights](https://modrinth.com/resourcepack/better-lights) by PystoyPlayer
-  - [Fresh Animations](https://modrinth.com/resourcepack/fresh-animations) by FreshLX - Other mobs' animations.
+  - [ReimaginedGUI(Dark)]() by amongstreality - Another dark ui. Pick what u want
+  - [Fresh Animations](https://modrinth.com/resourcepack/fresh-animations) by FreshLX - Other mobs' animations
   
-  ### Optional
-  - [GUI Revision](https://modrinth.com/resourcepack/gui-revision) by Vixel - Another resource pack that changes UI.
-  - [Enchant Icons](https://modrinth.com/resourcepack/enchant-icons-colorless-countxd) by CountXD - For those who don’t want Icons RP but want to see enchant icons.
 </details>
 
 <details>
   <summary>Shader Packs</summary>
 
    - [Complimentary Reimagined](https://modrinth.com/shader/complementary-reimagined) by EminGT
-   - [Hysteria Shaders](https://modrinth.com/shader/hysteria-shaders) by ElocinDev
-   - [Pastel Shaders](https://modrinth.com/shader/pastel-shaders) by ElocinDev
    - [Photon](https://modrinth.com/shader/photon-shader) by sixthsurge
 </details>
 
