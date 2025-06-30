@@ -10,9 +10,12 @@ Used Terralith as world gen mod and Chunky to measure chunk gen performance.
 - <b>Time from main menu to in-game:</b> ~8s
 - <b>Total time to load game and open world:</b> ~32s
 - <b>Shader/No-shader performance:</b> 137fps/340fps <br>
- <img alt="Shader performance is around 137fps" src="https://github.com/user-attachments/assets/d6c9f71e-a7a3-441e-a30e-a4138fda9b5a" width="400px" style="display: inline-block"/>
+ <img alt="Shader performance is around 137fps" src="https://github.com/user-attachments/assets/d6c9f71e-a7a3-441e-a30e-a4138fda9b5a" width="400px" style="display: inline-block" />
 
- <img alt="No shader performance is 340fps" src="[https://github.com/user-attachments/assets/08a783e4-021b-415f-8b96-06faec87b2de](https://github.com/user-attachments/assets/f130202d-2daa-4958-8e4f-8255a24a56a1)"  width="400px"  style="display: inline-block" />
+ <img alt="No shader performance is 340fps" src="https://github.com/user-attachments/assets/d436a1e0-91d9-4906-820c-84cb16c6d23a"  width="400px"  style="display: inline-block" />
+
+ ![image](https://github.com/user-attachments/assets/d436a1e0-91d9-4906-820c-84cb16c6d23a)
+
 
 <details>
   <summary>Test Rig</summary>
